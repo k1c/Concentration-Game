@@ -1,0 +1,34 @@
+body {
+	color: black;
+	background-color: grey;
+}
+
+#header {
+	text-shadow: 3px 3px #000;
+	text-align: left;
+	font-size: 2em;
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+div.card{
+	background-color: lightsalmon;
+	border:4px solid white;
+	border-radius:10px;
+	padding:10px;
+	width:50px;
+	height:50px;
+	vertical-align:top;
+	display:inline-block;
+	margin:5px;
+}
+
+div.card.flippedCard{
+	background-color: white;
+	font-size: 2em;
+	text-align: center;
+
+}
