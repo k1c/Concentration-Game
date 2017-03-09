@@ -14,6 +14,7 @@ Launching Instructions:
 Browser Instructions:
 > reachable from a browser via: http://localhost:2406/
 
+
 File Structure:
 
 |   app.js
