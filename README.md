@@ -18,13 +18,13 @@ File Structure:
 
 |   app.js
    
-   makeBoard.js
+|   makeBoard.js
    
-   node_modules
+|   node_modules
    
-   README
+|   README
    
-───public_html:
+|───public_html:
 
        404.html
        
