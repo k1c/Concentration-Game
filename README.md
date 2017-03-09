@@ -9,7 +9,7 @@ Node.js, HTML, CSS, JavaScript, jQuery AJAX.
 OS: Mac OS
 Browser: Chrome
 
-Program Author: k1c
+Program Author: Carolyne Pelletier
 
 Launching Instructions:
 > node app.js
