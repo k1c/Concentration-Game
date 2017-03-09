@@ -1,6 +1,8 @@
 # Concentration Game (October 2016)
 Single-player version of the memory match game "Concentration".
+
 Node.js, HTML, CSS, JavaScript, jQuery AJAX.
+
 OS: Mac OS
 Browser: Chrome
 
