@@ -16,7 +16,7 @@ Browser Instructions:
 
 File Structure:
 
-   app.js
+|   app.js
    
    makeBoard.js
    
@@ -24,7 +24,7 @@ File Structure:
    
    README
    
-───public_html
+───public_html:
 
        404.html
        
