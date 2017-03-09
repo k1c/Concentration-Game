@@ -17,15 +17,25 @@ Browser Instructions:
 Concentration Game
 
    app.js
+   
    makeBoard.js
+   
    node_modules
+   
    README
+   
 ───public_html
+
        404.html
+       
        cards.Client.js
+       
        favicon.ico
+       
        index.html
+       
        myStyles.css
+       
 
 
 
