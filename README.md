@@ -10,6 +10,7 @@ OS: Mac OS
 Browser: Chrome
 
 Program Author: Carolyne Pelletier
+
 carolyne.pelletier12@gmail.com
 
 Launching Instructions:
